@@ -1,6 +1,6 @@
 lista_zakupow = {
- "Piekarnia": ['Chleb','Paczek','Bulki'],
- "Warzywniak": ['Marchew','Seler','Rukola']
+ "Piekarnia": ['Chleb'],
+ "Warzywniak": ['Marchew']
 }
 
 count0 = 0
