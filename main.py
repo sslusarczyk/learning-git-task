@@ -15,3 +15,4 @@ count0 = len (lista_zakupow['Piekarnia'])
 count1 = len(lista_zakupow['Warzywniak'])
 
 print (f"W sumie kupuje {count0+count1} produktow")
+print ("Zmiana 1 Github")
